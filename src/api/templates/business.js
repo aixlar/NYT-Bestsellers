@@ -1,0 +1,72 @@
+export default [
+  {
+    "isbn": "9781328994967",
+    "genre": "Business",
+    "publishedDate": "2017",
+    "title": "Tribe of Mentors",
+    "description": "We All Need Mentors. Here Are More than 100 of the World's Best. When facing life's questions, who do you turn to for advice? We all need mentors, particularly when the odds seem stacked against us. To find his own, four-time #1 best-selling author Tim Ferriss tracked down more than 100 eclectic experts to help him, and you, navigate life. Through short, action-packed profiles, he shares their secrets for success, happiness, meaning, and more. No matter the challenge or opportunity, something in these pages can help. You will learn: * The three books legendary investor Ray Dalio recommends most often * Lessons and tips from elite athletes like Maria Sharapova, Kelly Slater, Dara Torres, Tony Hawk, Dan Gable, and more * How and why Facebook co-founder Dustin Moskovitz says no to most incoming requests * The mental models of poker phenoms Daniel Negreanu, Annie Duke, Fedor Holz, and Liv Boeree * The meditation and mindfulness practices of David Lynch, Jimmy Fallon, Sharon Salzberg, Rick Rubin, Richa Chadha, Sarah Elizabeth Lewis, and others * The high-school loss that motivated actor Terry Crews for life . . . and how you can use the lesson * Why TED curator Chris Anderson thinks \"pursue your passion\" is terrible advice * Why renowned designer Debbie Millman believes in therapy but not in work-life balance * How Yuval Noah Harari's Sapiens went from repeated rejections to global mega-bestseller * The new beliefs, behaviors, and habits that have most helped cryptocurrency icons (founders of Ethereum, Zcash, etc.) in the last five years * Why Arianna Huffington recommends that you regularly scramble apps on your phone * The \"bar complex\" exercise that keeps country star Tim McGraw young * Why bestselling author Steven Pressfield believes college students should drive trucks and become cowboys * Why comedian Patton Oswalt wishes at least one catastrophic failure on anyone in the arts * Astrophysicist Janna Levin's unique reframe that helps her see obstacles as opportunities * Why actor Ben Stiller likes to dunk his head in a bucket of ice in the morning * Why Dropbox co-founder Drew Houston's cheat sheet for his younger self would include a tennis ball, a circle, and the number 30,000. Other mentors include Neil Gaiman, Ashton Kutcher, Dita Von Teese, Marc Benioff, Evan Williams, Brandon Stanton, Esther Perel, Darren Aronofsky, Steve Aoki, Joseph Gordon-Levitt, Stephanie McMahon, Craig Newmark, Gretchen Rubin, Bear Grylls, Laura Walker, Mr. Money Mustache (Pete Adeney), Linda Rottenberg, Jesse Williams, and many more.",
+    "contributor": "by Timothy Ferriss",
+    "author": "Timothy Ferriss",
+    "averageRating": 4.5,
+    "pageAmount": 624,
+    "thumbnail": "http://books.google.com/books/content?id=xTk8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Tribe_of_Mentors.html?hl=&id=xTk8DwAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9781501124020",
+    "genre": "Business",
+    "publishedDate": "2017-09-19",
+    "title": "Principles",
+    "description": "Dalio \"shares the unconventional principles that he's developed, refined, and used over the past forty years to create unique results in both life and business--and which any person or organization can adopt to help achieve their goals\"--Amazon.com.",
+    "contributor": "by Ray Dalio",
+    "author": "Ray Dalio",
+    "averageRating": null,
+    "pageAmount": 592,
+    "thumbnail": "http://books.google.com/books/content?id=okk1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Principles.html?hl=&id=okk1DwAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780735210622",
+    "genre": "Business",
+    "publishedDate": "2018-01-09",
+    "title": "When",
+    "description": "Instant New York Times Bestseller \"Brims with a surprising amount of insight and practical advice.\" --The Wall Street Journal Daniel H. Pink, the #1 bestselling author of Drive and To Sell Is Human, unlocks the scientific secrets to good timing to help you flourish at work, at school, and at home. Everyone knows that timing is everything. But we don't know much about timing itself. Our lives are a never-ending stream of \"when\" decisions: when to start a business, schedule a class, get serious about a person. Yet we make those decisions based on intuition and guesswork. Timing, it's often assumed, is an art. In When: The Scientific Secrets of Perfect Timing, Pink shows that timing is really a science. Drawing on a rich trove of research from psychology, biology, and economics, Pink reveals how best to live, work, and succeed. How can we use the hidden patterns of the day to build the ideal schedule? Why do certain breaks dramatically improve student test scores? How can we turn a stumbling beginning into a fresh start? Why should we avoid going to the hospital in the afternoon? Why is singing in time with other people as good for you as exercise? And what is the ideal time to quit a job, switch careers, or get married? In When, Pink distills cutting-edge research and data on timing and synthesizes them into a fascinating, readable narrative packed with irresistible stories and practical takeaways that give readers compelling insights into how we can live richer, more engaged lives.",
+    "contributor": "by Daniel H. Pink",
+    "author": "Daniel H Pink",
+    "averageRating": 4.5,
+    "pageAmount": 272,
+    "thumbnail": "http://books.google.com/books/content?id=ZxVHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/When.html?hl=&id=ZxVHDwAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210624?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780785216308",
+    "genre": "Business",
+    "publishedDate": "2017-10-17",
+    "title": "CAPITAL GAINES",
+    "description": "The most important step is taking the first one. Capital Gaines is the perfect book for anyone looking to succeed not only in business but more importantly in life.",
+    "contributor": "by Chip Gaines",
+    "author": "Chip Gaines",
+    "averageRating": 3.0,
+    "pageAmount": 208,
+    "thumbnail": "http://books.google.com/books/content?id=Vn1xAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Capital_Gaines.html?hl=&id=Vn1xAQAACAAJ",
+    "amazonProductURL": "https://www.amazon.com/Capital-Gaines-Things-Learned-Stupid/dp/0785216308?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9781250156945",
+    "genre": "Business",
+    "publishedDate": "2017-10-17",
+    "title": "Discipline Equals Freedom",
+    "description": "Jocko Willink's methods for success were born in the SEAL Teams, where he spent most of his adult life, enlisting after high school and rising through the ranks to become the commander of the most highly decorated special operations unit of the war in Iraq. Here he describes how he lives that mantra: the mental and physical disciplines he imposes on himself in order to achieve freedom in all aspects of life. Willink includes strategies and tactics for conquering weakness, procrastination, and fear; specific physical training presented in workouts for beginner, intermediate, and advanced athletes; and the best sleep habits and food intake recommended to optimize performance.",
+    "contributor": "by Jocko Willink",
+    "author": "Jocko Willink",
+    "averageRating": 4.5,
+    "pageAmount": 208,
+    "thumbnail": "http://books.google.com/books/content?id=HF06DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Discipline_Equals_Freedom.html?hl=&id=HF06DwAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947?tag=NYTBS-20"
+  }
+]

@@ -1,0 +1,72 @@
+export default [
+  {
+    "isbn": "9780393609394",
+    "genre": "Science",
+    "publishedDate": "2017-05-02",
+    "title": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+    "description": "A straightforward, easy-to-understand introduction to the laws that govern the universe.",
+    "contributor": "by Neil deGrasse Tyson",
+    "author": "Neil deGrasse Tyson",
+    "averageRating": 4.0,
+    "pageAmount": 222,
+    "thumbnail": "http://books.google.com/books/content?id=iXURvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Astrophysics_for_People_in_a_Hurry.html?hl=&id=iXURvgAACAAJ",
+    "amazonProductURL": "https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9781501139154",
+    "genre": "Science",
+    "publishedDate": "2017-10-17",
+    "title": "Leonardo Da Vinci",
+    "description": "This new biography brings Leonardo da Vinci to life; based on thousands of pages from Leonardo's astonishing notebooks and new discoveries about his life and work, Walter Isaacson weaves a narrative that connects his art to his science.",
+    "contributor": "by Walter Isaacson",
+    "author": "Walter Isaacson",
+    "averageRating": null,
+    "pageAmount": 624,
+    "thumbnail": "http://books.google.com/books/content?id=vkA5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Leonardo_Da_Vinci.html?hl=&id=vkA5DwAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780735216204",
+    "genre": "Science",
+    "publishedDate": "2017",
+    "title": "The End of Alzheimer's",
+    "description": "A groundbreaking plan to prevent and reverse Alzheimer's Disease that fundamentally changes how we understand cognitive decline. Everyone knows someone who has survived cancer, but until now no one knows anyone who has survived Alzheimer's Disease. In this paradigm shifting book, Dale Bredesen, MD, offers real hope to anyone looking to prevent and even reverse Alzheimer's Disease and cognitive decline. Revealing that AD is not one condition, as it is currently treated, but three, The End of Alzheimer's outlines 36 metabolic factors (micronutrients, hormone levels, sleep) that can trigger \"downsizing\" in the brain. The protocol shows us how to rebalance these factors using lifestyle modifications like taking B12, eliminating gluten, or improving oral hygiene. The results are impressive. Of the first ten patients on the protocol, nine displayed significant improvement with 3-6 months; since then the protocol has yielded similar results with hundreds more. Now, The End of Alzheimer's brings new hope to a broad audience of patients, caregivers, physicians, and treatment centers with a fascinating look inside the science and a complete step-by-step plan that fundamentally changes how we treat and even think about AD.",
+    "contributor": "by Dale Bredesen",
+    "author": "Dale Bredesen",
+    "averageRating": 5.0,
+    "pageAmount": 320,
+    "thumbnail": "http://books.google.com/books/content?id=YtwtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/The_End_of_Alzheimer_s.html?hl=&id=YtwtDwAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/End-Alzheimers-Program-Prevent-Cognitive/dp/0735216207?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9781455540020",
+    "genre": "Science",
+    "publishedDate": "2017-01-03",
+    "title": "The Lost City of the Monkey God",
+    "description": "NAMED A NEW YORK TIMES NOTABLE BOOK OF 2017#1 New York Times and #1 Wall Street Journal bestseller! A five-hundred-year-old legend. An ancient curse. A stunning medical mystery. And a pioneering journey into the unknown heart of the world's densest jungle. Since the days of conquistador Hernán Cortés, rumors have circulated about a lost city of immense wealth hidden somewhere in the Honduran interior, called the White City or the Lost City of the Monkey God. Indigenous tribes speak of ancestors who fled there to escape the Spanish invaders, and they warn that anyone who enters this sacred city will fall ill and die. In 1940, swashbuckling journalist Theodore Morde returned from the rainforest with hundreds of artifacts and an electrifying story of having found the Lost City of the Monkey God-but then committed suicide without revealing its location. Three quarters of a century later, bestselling author Doug Preston joined a team of scientists on a groundbreaking new quest. In 2012 he climbed aboard a rickety, single-engine plane carrying the machine that would change everything: lidar, a highly advanced, classified technology that could map the terrain under the densest rainforest canopy. In an unexplored valley ringed by steep mountains, that flight revealed the unmistakable image of a sprawling metropolis, tantalizing evidence of not just an undiscovered city but an enigmatic, lost civilization. Venturing into this raw, treacherous, but breathtakingly beautiful wilderness to confirm the discovery, Preston and the team battled torrential rains, quickmud, disease-carrying insects, jaguars, and deadly snakes. But it wasn't until they returned that tragedy struck: Preston and others found they had contracted in the ruins a horrifying, sometimes lethal-and incurable-disease. Suspenseful and shocking, filled with colorful history, hair-raising adventure, and dramatic twists of fortune, THE LOST CITY OF THE MONKEY GOD is the absolutely true, eyewitness account of one of the great discoveries of the twenty-first century.",
+    "contributor": "by Douglas Preston",
+    "author": "Douglas Preston",
+    "averageRating": 4.0,
+    "pageAmount": 304,
+    "thumbnail": "http://books.google.com/books/content?id=5ODZDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "googleBooksLink": "https://market.android.com/details?id=book-5ODZDAAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/Lost-City-Monkey-God-Story-ebook/dp/B01G1K1RTA?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780062316097",
+    "genre": "Science",
+    "publishedDate": "2015-02-10",
+    "title": "Sapiens",
+    "description": "One hundred thousand years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations, and human rights; to trust money, books, and laws; and to be enslaved by bureaucracy, timetables, and consumerism? And what will our world be like in the millennia to come? In Sapiens, Professor Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical—and sometimes devastating—breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology, and economics, and incorporating full-color illustrations throughout the text, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behavior from the legacy of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? Bold, wide-ranging, and provocative, Sapiens integrates history and science to challenge everything we thought we knew about being human: our thoughts, our actions, our heritage...and our future.",
+    "contributor": "by Yuval Noah Harari",
+    "author": "Yuval Noah Harari",
+    "averageRating": 4.0,
+    "pageAmount": 464,
+    "thumbnail": "http://books.google.com/books/content?id=ibALnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Sapiens.html?hl=&id=ibALnwEACAAJ",
+    "amazonProductURL": "http://www.amazon.com/Sapiens-A-Brief-History-Humankind-ebook/dp/B00ICN066A?tag=NYTBS-20"
+  }
+]

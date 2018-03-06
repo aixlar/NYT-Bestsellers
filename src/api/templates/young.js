@@ -1,0 +1,72 @@
+export default [
+  {
+    "isbn": "9780375847110",
+    "genre": "Young Adult Hardcover",
+    "publishedDate": "2018",
+    "title": "Tempests and Slaughter",
+    "description": "Arram Draper, Varice Kingsford, and Ozorne Tasikhe forge a bond of friendship that sees them through many changes as student mages at Imperial University of Carthak.",
+    "contributor": "by Tamora Pierce",
+    "author": "Tamora Pierce",
+    "averageRating": null,
+    "pageAmount": 480,
+    "thumbnail": "http://books.google.com/books/content?id=x9ZLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Tempests_and_Slaughter.html?hl=&id=x9ZLDwAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/Thunderhead-Arc-Scythe-Neal-Shusterman/dp/1442472456?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780062498533",
+    "genre": "Young Adult Hardcover",
+    "publishedDate": "2017-02-28",
+    "title": "The Hate U Give",
+    "description": "Inspired by the Black Lives Matter movement, Angie Thomas’s searing debut about an ordinary girl in extraordinary circumstances addresses issues of racism and police violence with intelligence, heart, and unflinching honesty. Soon to be a major motion picture from Fox 2000/Temple Hill Productions. Sixteen-year-old Starr Carter moves between two worlds: the poor neighborhood where she lives and the fancy suburban prep school she attends. The uneasy balance between these worlds is shattered when Starr witnesses the fatal shooting of her childhood best friend Khalil at the hands of a police officer. Khalil was unarmed. Soon afterward, his death is a national headline. Some are calling him a thug, maybe even a drug dealer and a gangbanger. Protesters are taking to the streets in Khalil’s name. Some cops and the local drug lord try to intimidate Starr and her family. What everyone wants to know is: what really went down that night? And the only person alive who can answer that is Starr. But what Starr does—or does not—say could upend her community. It could also endanger her life.",
+    "contributor": "by Melissa Albert",
+    "author": "Melissa Albert",
+    "averageRating": 4.5,
+    "pageAmount": 464,
+    "thumbnail": "http://books.google.com/books/content?id=QRFnvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/The_Hate_U_Give.html?hl=&id=QRFnvgAACAAJ",
+    "amazonProductURL": "https://www.amazon.com/Hazel-Wood-Novel-Melissa-Albert/dp/1250147905?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780525555360",
+    "genre": "Young Adult Hardcover",
+    "publishedDate": "2017",
+    "title": "Turtles All the Way Down",
+    "description": "Aza Holmes, a high school student with obsessive-compulsive disorder, becomes focused on searching for a fugitive billionaire.",
+    "contributor": "by John Green",
+    "author": "John Green",
+    "averageRating": 4.0,
+    "pageAmount": 286,
+    "thumbnail": "http://books.google.com/books/content?id=bzA7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Turtles_All_the_Way_Down.html?hl=&id=bzA7DwAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555366?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9781524714680",
+    "genre": "Young Adult Hardcover",
+    "publishedDate": "2017",
+    "title": "One of Us Is Lying",
+    "description": "\"When the creator of a high school gossip app mysteriously dies in front of four high-profile students all four become suspects. It's up to them to solve the case\"--",
+    "contributor": "by Karen M. McManus",
+    "author": "Karen M McManus",
+    "averageRating": 4.0,
+    "pageAmount": 368,
+    "thumbnail": "http://books.google.com/books/content?id=N5PEDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/One_of_Us_Is_Lying.html?hl=&id=N5PEDgAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/One-Us-Lying-Karen-McManus/dp/1524714682?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9781442472457",
+    "genre": "Young Adult Hardcover",
+    "publishedDate": "2018-01-09",
+    "title": "Thunderhead",
+    "description": "Rowan and Citra take opposite stances on the morality of the Scythedom, putting them at odds, in this chilling sequel to the Printz Honor Book \"Scythe\" from the \"New York Times\"-bestselling author of the Unwind dystology.",
+    "contributor": "by Neal Shusterman",
+    "author": "Neal Shusterman",
+    "averageRating": 5.0,
+    "pageAmount": 512,
+    "thumbnail": "http://books.google.com/books/content?id=SBZFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Thunderhead.html?hl=&id=SBZFDwAAQBAJ",
+    "amazonProductURL": "https://books.google.com/books/about/Thunderhead.html?hl=&id=SBZFDwAAQBAJ"
+  }
+]

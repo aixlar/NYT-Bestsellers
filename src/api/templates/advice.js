@@ -1,0 +1,72 @@
+export default [
+  {
+    "isbn": "9780062457714",
+    "genre": "Advice, How-To and Miscellaneous",
+    "publishedDate": "2016-09-13",
+    "title": "The Subtle Art of Not Giving a F**k",
+    "description": "How to stop trying to be \"positive\" all the time and, instead, become better at handling adversity.",
+    "contributor": "by Mark Manson",
+    "author": "Mark Manson",
+    "averageRating": 4.0,
+    "pageAmount": 304,
+    "thumbnail": "http://books.google.com/books/content?id=RobZjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/The_Subtle_Art_of_Not_Giving_a_F_k.html?hl=&id=RobZjgEACAAJ",
+    "amazonProductURL": "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780762447695",
+    "genre": "Advice, How-To and Miscellaneous",
+    "publishedDate": "2013-04-23",
+    "title": "You Are a Badass",
+    "description": "Offers a blunt and irreverent guide to achieving the money, relationships, career, and happiness that one desires through recognizing and doing away with self-sabotaging beliefs and behaviors.",
+    "contributor": "by Jen Sincero",
+    "author": "Jen Sincero",
+    "averageRating": 4.0,
+    "pageAmount": 256,
+    "thumbnail": "http://books.google.com/books/content?id=nbEfAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/You_Are_a_Badass.html?hl=&id=nbEfAQAAQBAJ",
+    "amazonProductURL": "http://www.amazon.com/You-Are-Badass-Doubting-Greatness-ebook/dp/B00B3M3VWS?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780802412706",
+    "genre": "Advice, How-To and Miscellaneous",
+    "publishedDate": "2015-01-01",
+    "title": "The 5 Love Languages",
+    "description": "Outlines five expressions of love--quality time, words of affirmation, gifts, acts of service, and physical touch--and explains how to identify and communicate effectively in a spouse's \"love language.\"",
+    "contributor": "by Gary Chapman",
+    "author": "Gary Chapman",
+    "averageRating": 4.5,
+    "pageAmount": 384,
+    "thumbnail": "http://books.google.com/books/content?id=PBnqoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/Shoe_Dog.html?hl=&id=UmyfjgEACAAJ",
+    "amazonProductURL": "http://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9781419726477",
+    "genre": "Advice, How-To and Miscellaneous",
+    "publishedDate": "2018-01-30",
+    "title": "Crushing It!",
+    "description": "Four-time New York Times bestselling author Gary Vaynerchuk offers new lessons and inspiration drawn from the experiences of dozens of influencers and entrepreneurs who rejected the predictable corporate path in favor of pursuing their dreams by building thriving businesses and extraordinary personal brands. In his 2009 international bestseller Crush It, Gary insisted that a vibrant personal brand was crucial to entrepreneurial success, In Crushing It!, Gary explains why that’s even more true today, offering his unique perspective on what has changed and what principles remain timeless. He also shares stories from other entrepreneurs who have grown wealthier—and not just financially—than they ever imagined possible by following Crush It principles. The secret to their success (and Gary’s) has everything to do with their understanding of the social media platforms, and their willingness to do whatever it took to make these tools work to their utmost potential. That’s what Crushing It! teaches readers to do. In this lively, practical, and inspiring book, Gary dissects every current major social media platform so that anyone, from a plumber to a professional ice skater, will know exactly how to amplify his or her personal brand on each. He offers both theoretical and tactical advice on how to become the biggest thing on old standbys like Twitter, Facebook, YouTube, Instagram, Pinterest, and Snapchat; podcast platforms like Spotify, Soundcloud, iHeartRadio, and iTunes; and other emerging platforms such as Musical.ly. For those with more experience, Crushing It! illuminates some little-known nuances and provides innovative tips and clever tweaks proven to enhance more common tried-and-true strategies. Crushing It! is a state-of-the-art guide to building your own path to professional and financial success, but it’s not about getting rich. It’s a blueprint to living life on your own terms.",
+    "contributor": "by Gary Vaynerchuk",
+    "author": "Gary Vaynerchuk",
+    "averageRating": 5.0,
+    "pageAmount": 288,
+    "thumbnail": "http://books.google.com/books/content?id=mpm7DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "googleBooksLink": "https://market.android.com/details?id=book-mpm7DgAAQBAJ",
+    "amazonProductURL": "https://www.amazon.com/Crushing-Great-Entrepreneurs-Business-Influence-/dp/0062674676?tag=NYTBS-20"
+  },
+  {
+    "isbn": "9780544609716",
+    "genre": "Advice, How-To and Miscellaneous",
+    "publishedDate": "2015-04-21",
+    "title": "THE WHOLE30",
+    "description": "The best-selling authors of It Starts With Food outline a scientifically based, step-by-step guide to weight loss that explains how to change one's relationship with food for better habits, improved digestion and a stronger immune system. 150,000 first printing.",
+    "contributor": "by Melissa Hartwig and Dallas Hartwig",
+    "author": "Melissa Hartwig and Dallas Hartwig",
+    "averageRating": 4.0,
+    "pageAmount": 432,
+    "thumbnail": "http://books.google.com/books/content?id=uTYmCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "googleBooksLink": "https://books.google.com/books/about/The_Whole30.html?hl=&id=uTYmCAAAQBAJ",
+    "amazonProductURL": "http://www.amazon.com/The-Whole30-30-Day-Health-Freedom/dp/0544609719?tag=NYTBS-20"
+  }
+]
